@@ -1,2 +1,2 @@
 # diffusion4Protein
-## codes for paper 《Protein generation and experimental evaluation based on diffusion+ESM2 model》
+## codes for paper 《Protein synthesis and affinity determination based on diffusion+ESM2 model》
