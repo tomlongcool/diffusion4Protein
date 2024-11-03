@@ -1,2 +1,3 @@
 # diffusion4Protein
-## codes for paper 《Protein synthesis and affinity determination based on diffusion+ESM2 model》
+## codes for paper 《Protein A-like Peptide Design Based on Diffusion and ESM2 Models》
+
